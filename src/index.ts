@@ -6,4 +6,6 @@ console.log('add feat1');
 
 console.log('add fix2');
 
-console.log('add feat2')
+console.log('add feat2');
+
+console.log('BREAKING CHANGE');
